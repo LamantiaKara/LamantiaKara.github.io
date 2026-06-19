@@ -5,9 +5,9 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "default"
 
 # Site settings
-title: "Jane Smith"
-subtitle: "PhD Student in Glaciology"
-url: "https://janesmith.github.io"
+title: "Kara Lamantia"
+subtitle: "Royal Society Newton International Fellow"
+url: "https://lamantiakara.github.io"
 
 # Masthead image
 logo: "/assets/images/avatar.png"
@@ -17,40 +17,34 @@ favicon: "/assets/images/favicon.png"
 
 # Author sidebar info
 author:
-  name: Jane Smith
-  bio: "PhD Student in Glaciology at the University of Example."
+  name: Kara Lamantia
+  bio: "Royal Society Newton Internaional Fellow at the University of Bristol Glaciology Center."
   avatar: "/assets/images/avatar.png"
-  email: jane.smith@example.com
+  email: kara.lamantia@bristol.ac.uk
   location: Bristol, UK
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "github.com/janesmith"
+      url: "github.com/lamantiakara"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "linkedin.com/in/janesmith"
-    - label: "Bluesky"
-      icon: "fa-brands fa-fw fa-bluesky"
-      url: "https://janesmith.bsky.social"
+      url: "https://www.linkedin.com/in/kara-lamantia-539023118/"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google-scholar"
-      url: "https://scholar.google.co.uk/citations?user=XXXXXXXXXXX"
+      url: "https://scholar.google.com/citations?user=v0bt4CkAAAAJ&hl=en&oi=ao"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+      url: "https://orcid.org/my-orcid?orcid=0000-0002-1448-3280"
 
 # Site Footer
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jane.smith@example.com"
-    - label: "Bluesky"
-      icon: "fa-brands fa-fw fa-bluesky"
-      url: "https://bsky.app/profile/janesmith.bsky.social"
+      url: "mailto:kara.lamantia@bristol.ac.uk"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/janesmith"
+      url: "https://github.com/lamantiakara"
   since: "2026"
 
 # Build settings
