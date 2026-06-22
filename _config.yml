@@ -10,7 +10,7 @@ subtitle: "Royal Society Newton International Fellow"
 url: "https://lamantiakara.github.io"
 
 # Masthead image
-logo: "/assets/images/picture2.jpg"
+logo: "/assets/images/avatar.png"
 
 # Favicon
 favicon: "/assets/images/QICsummit2.jpg"
@@ -19,7 +19,7 @@ favicon: "/assets/images/QICsummit2.jpg"
 author:
   name: Kara Lamantia
   bio: "Royal Society Newton International Fellow at the University of Bristol Glaciology Center."
-  avatar: "/assets/images/picture2.jpg"
+  avatar: "/assets/images/picture3.jpg"
   email: kara.lamantia@bristol.ac.uk
   location: Bristol, UK
   links:
