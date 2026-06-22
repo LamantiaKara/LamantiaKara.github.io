@@ -9,16 +9,18 @@ For a complete CV, please download the [full PDF](../assets/cv.pdf) or view my [
 
 ## Education
 
-- **PhD in Glaciology**, University of Example, 2023–present
-- **MSc in Geophysics**, University of Example, 2021–2023
-- **BSc in Physics**, University of Example, 2017–2021
+- **PhD in Earth Sciences**, Ohio State University, 2021-2025
+- **MS in Earth Sciences**, Ohio State University, 2016-2018
+- **BS in Geosciences**, University of Dayton, 2012-2016
 
 ## Research Skills
 
+- Remote sensing and satellite imagery
+- Paleoclimate 
 - Glacier field surveying and instrumentation
 - Numerical modeling (Python, MATLAB)
 - Data analysis and visualization
-- Remote sensing and satellite imagery
+-
 - Scientific writing and presentation
 
 ## Teaching
