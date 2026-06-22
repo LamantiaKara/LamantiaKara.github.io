@@ -1,8 +1,14 @@
 ---
 layout: single
 permalink: /
-title: "Home"
 author_profile: true
+header:
+  overlay_image: /assets/images/QICsummit2.jpg
+  overlay_filter: 0.3
+  overlay_color: "#000"
+  excerpt: "Royal Society Newton International Fellow  
+    University of Bristol Glaciology Centre  
+    School of Geographical Sciences"
 ---
 
 Hello! I am a Royal Society Newton International Fellow at the University of Bristol Glaciology Centre where I focus on mountain glacier snowlines. My research involves using satellite imagery with computation modeling to understand how glacier snowlines to environmental changes. 
