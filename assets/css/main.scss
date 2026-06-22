@@ -15,3 +15,7 @@
   display: block;
   margin: 0 auto;
 }
+.page__hero--overlay .page__hero-image {
+  object-fit: cover;
+  object-position: center 70%;
+}
