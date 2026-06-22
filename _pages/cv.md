@@ -5,5 +5,8 @@ permalink: /cv/
 author_profile: true
 ---
 
-[Download my CV (PDF)](../assets/KLamantia_CV.pdf)
 
+<iframe src="/assets/cv.pdf" width="100%" height="900px" style="border: none;">
+  <p>Your browser doesn't support embedded PDFs. 
+  <a href="/assets/KLamantia_CV.pdf">Download the PDF</a> instead.</p>
+</iframe>
