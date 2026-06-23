@@ -54,6 +54,7 @@ markdown: kramdown
 include:
   - _pages
   - assets/images
+  - assets/cv.pdf
 exclude:
   - Gemfile
   - Gemfile.lock
