@@ -81,9 +81,17 @@ defaults:
       path: ""
       type: posts
     values:
+      header:
+        overlay_image: /assets/images/QICsummit2.jpg
+        overlay_filter: 0.3
+        overlay_color: "#000"
+        show_overlay_excerpt: false
+        image_position: "center 50%"
       layout: single
       author_profile: true
       read_time: true
       comments: # true
       share: true
       related: true
+    
+
