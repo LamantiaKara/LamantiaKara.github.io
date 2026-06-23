@@ -6,9 +6,7 @@ author_profile: true
 ---
 
 
-<iframe 
-  src="https://docs.google.com/viewer?url={{ site.url }}/assets/cv.pdf&embedded=true" 
-  width="100%" 
-  height="900px" 
-  style="border: none;">
+<iframe src="/assets/cv.pdf" width="100%" height="900px" style="border: none;">
+  <p>Your browser doesn't support embedded PDFs. 
+  <a href="/assets/cv.pdf">Download the PDF</a> instead.</p>
 </iframe>
