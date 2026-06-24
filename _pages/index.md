@@ -8,6 +8,7 @@ header:
   overlay_filter: 0.3
   overlay_color: "#000"
   show_overlay_excerpt: false
+  image_position: "center 70%"
 ---
 
 Hello! I am a Royal Society Newton International Fellow at the University of Bristol Glaciology Centre where I focus on mountain glacier snowlines. My research involves using satellite imagery with computation modeling to understand how glacier snowlines to environmental changes. 
