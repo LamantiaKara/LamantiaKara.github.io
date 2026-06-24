@@ -3,19 +3,22 @@
 ---
 
 @charset "utf-8";
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: "default" }}"; // skin
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials 
 /* Force circular avatar */
 .author__avatar {
-  width: 150px;
-  height: 150px; 
+  width: 150px !important;
+  height: 150px !important;
+  max-width: 150px !important;
 }
+
 .author__avatar img {
-  border-radius: 50%;
-  width: 150px;
-  height: 150px;
+  border-radius: 50% !important;
+  width: 150px !important;
+  height: 150px !important;
+  max-width: 150px !important;
   object-fit: cover;
-  object-position: center top;  /* crops from the top — good for portraits */
+  object-position: center top;
   display: block;
   margin: 0 auto;
 }
