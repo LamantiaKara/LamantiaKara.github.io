@@ -86,7 +86,6 @@ defaults:
         overlay_filter: 0.3
         overlay_color: "#000"
         show_overlay_excerpt: false
-        image_position: "center 80%"
       layout: single
       author_profile: true
       read_time: true
