@@ -6,10 +6,14 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 /* Force circular avatar */
+.author__avatar {
+  width: 500px;
+  height: 500px;
+}
 .author__avatar img {
   border-radius: 50%;
-  width: 150px;
-  height: 150px;
+  width: 500px;
+  height: 500px;
   object-fit: cover;
   object-position: center top;  /* crops from the top — good for portraits */
   display: block;
