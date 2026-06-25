@@ -4,7 +4,7 @@ title: " "
 permalink: /
 author_profile: true
 header:
-  overlay_image: /assets/images/QICsummit2.jpg
+  overlay_image: /assets/images/QICsummit.jpg
   overlay_filter: 0.3
   overlay_color: "#000"
   show_overlay_excerpt: false
