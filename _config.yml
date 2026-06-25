@@ -79,7 +79,7 @@ defaults:
     values:
       header:
         overlay_image: /assets/images/QICsummit2.jpg
-        overlay_filter: 0.1
+        overlay_filter: 0.0
         overlay_color: "#000"
         show_overlay_excerpt: false
       layout: single
