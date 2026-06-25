@@ -6,11 +6,7 @@ minimal_mistakes_skin: "default"
 
 # Site settings
 title: "Kara Lamantia"
-subtitle: "Royal Society Newton International Fellow"
 url: "https://lamantiakara.github.io"
-
-# Masthead image
-logo: "/assets/images/avatar.png"
 
 # Favicon
 favicon: "/assets/images/QICsummit2.jpg"
