@@ -12,7 +12,7 @@ header:
   image_position: "center 50%"
 ---
 
-Hello! I am a Royal Society Newton International Fellow at the University of Bristol Glaciology Centre where I focus on mountain glacier snowlines. My research involves using satellite imagery with computation modeling to understand how glacier snowlines to environmental changes. 
+Hello! I am a Royal Society Newton International Fellow at the Bristol Glaciology Centre, University of Bristol” where I focus on mountain glacier snowlines. My research involves using satellite imagery with computational modeling to understand how glacier snowlines respond to environmental changes. 
 
 I'm passionate about polar and mountain environments, and I enjoy communicating science to diverse audiences. When I'm not working on glaciers, you might find me hiking, baking, reading fiction, or exploring new places.
 
