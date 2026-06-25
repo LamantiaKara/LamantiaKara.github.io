@@ -26,9 +26,9 @@ Mountain glaciers are disappearing at an unprecedented rate and are vital freshw
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin-top: 2em;">
   <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="/assets/images/QICascent.jpg" alt="Ascending the Quelccaya Ice Cap" 
-         style="width: 300px; height: 300px; object-fit: cover;">
+         style="width: 400px; height: 400px; object-fit: cover;">
     <img src="/assets/images/QICdescent.jpg" alt="Descending the Quelccaya Ice Cap" 
-         style="width: 300px; height: 300px; object-fit: cover;">
+         style="width: 400px; height: 400px; object-fit: cover;">
   </div>
   <p style="text-align: center; font-style: italic; margin: 0;">Two representative study site images showing a mountain glacier environment.</p>
 </div>
