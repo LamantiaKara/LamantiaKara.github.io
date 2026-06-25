@@ -12,4 +12,4 @@ header:
   image_position: "center 50%"
 ---
 
-<iframe src="[YOUR_GOOGLE_EMBED_URL](https://docs.google.com/document/d/e/2PACX-1vQMAhibtoh7PEc2tRldWKi0SEFARIwbQDWCZ5ttNIzhdyLs_mgZD2onETQ1Fpf-pQ/pub?embedded=true)" width="100%" height="900px" style="border: none;"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQMAhibtoh7PEc2tRldWKi0SEFARIwbQDWCZ5ttNIzhdyLs_mgZD2onETQ1Fpf-pQ/pub?embedded=true" width="100%" height="900px" style="border: none;"></iframe>
