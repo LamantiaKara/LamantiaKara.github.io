@@ -12,6 +12,9 @@ header:
   image_position: "center 50%"
 ---
 
+<!-- Identify Google Scholar page -->
+<div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?user=v0bt4CkAAAAJ&hl=en">my Google Scholar profile</a>.</div>
+
 ## Publications In Review
 
 - Lamantia, KA., Thompson, L.G., Davis, M.E., Riddell-Young, B., Beaudon, E., Strawson, I., Mosley-Thompson, E., Nguyen, N., & Brook, E.J. (2026) A Global Atmospheric Methane Record from a Tropical Ice core (in review, Nature). 
