@@ -31,11 +31,15 @@ Some of my past outreach activities have involved:
 - **Van Buren Middle School STEAM Day** (2022) — Virtual outreach presentation on glacier research and career paths
 - **Bexley High School STEM Day** (2021) —  Presentations and panel with high school students about climate research and career options
 
-<div style="display: flex; justify-content: center; gap: 20px; margin-top: 2em;">
-  <img src="/assets/images/outreach1.jpg" alt="Outreach activity" 
-       style="width: 300px; height: 300px; object-fit: cover;">
-  <img src="/assets/images/outreach2.jpg" alt="Outreach activity" 
-       style="width: 300px; height: 300px; object-fit: cover;">
-  <img src="/assets/images/outreach3.jpg" alt="Outreach activity" 
-       style="width: 300px; height: 300px; object-fit: cover;">
+<div style="display: flex; justify-content: center; gap: 30px; margin-top: 2em;">
+  <div style="text-align: center; width: 45%;">
+    <img src="/assets/images/outreach1.jpg" alt="Outreach activity" 
+         style="width: 100%; height: 220px; object-fit: cover;">
+    <p style="font-size: 0.85em; color: #666; margin-top: 0.5em;">Discussing climate research careers with students</p>
+  </div>
+  <div style="text-align: center; width: 45%;">
+    <img src="/assets/images/outreach2.jpg" alt="Outreach activity" 
+         style="width: 100%; height: 220px; object-fit: cover;">
+    <p style="font-size: 0.85em; color: #666; margin-top: 0.5em;">Presenting glacier snowline analysis</p>
+  </div>
 </div>
