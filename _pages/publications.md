@@ -16,7 +16,7 @@ header:
 <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?user=v0bt4CkAAAAJ&hl=en">my Google Scholar profile</a>.</div>
 
 ## Publications In Review
-- Lamantia, KA., Thompson, L.G., Davis, M.E., Riddell-Young, B., Beaudon, E., Strawson, I., Mosley-Thompson, E., Nguyen, N., & Brook, E.J. (2026) A Global Atmospheric Methane Record from a Tropical Ice core (in review, Nature). 
+- Lamantia, KA., Thompson, L.G., Davis, M.E., Riddell-Young, B., Beaudon, E., Strawson, I., Mosley-Thompson, E., Nguyen, N., & Brook, E.J. (2026) A Global Atmospheric Methane Record from a Tropical Ice core (In Press, Nature). 
 - Lamantia, K. A., Larocca, L., Aberle, R., Maussion, F., & Lea, J. M. (2026). A Google Earth Engine Tool for Mapping Key Metrics of Glacier Health from Space ([pre-print](https://eartharxiv.org/repository/view/12615/), in review, Journal of Glaciology).
 
 ## Peer-Reviewed Articles
