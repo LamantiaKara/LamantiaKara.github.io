@@ -19,7 +19,7 @@ header:
 - Lamantia, K. A., Larocca, L., Aberle, R., Maussion, F., & Lea, J. M. (2026). A Google Earth Engine Tool for Mapping Key Metrics of Glacier Health from Space ([pre-print](https://eartharxiv.org/repository/view/12615/), in review, Journal of Glaciology).
 
 ## Peer-Reviewed Articles
-- Lamantia, KA., Thompson, L.G., Davis, M.E., Riddell-Young, B., Beaudon, E., Strawson, I., Mosley-Thompson, E., Nguyen, N., & Brook, E.J. (2026) A Global Atmospheric Methane Record from a Tropical Ice core. Nature (2026). https://doi.org/10.1038/s41586-026-10938-1
+- Lamantia, KA., Thompson, L.G., Davis, M.E., Riddell-Young, B., Beaudon, E., Strawson, I., Mosley-Thompson, E., Nguyen, N., & Brook, E.J. (2026) A Global Atmospheric Methane Record from a Tropical Ice core. Nature (2026). [DOI: 10.1038/s41586-026-10938-1](https://www.nature.com/articles/s41586-026-10938-1#citeas)
 - Lamantia, K. A., Larocca, L. J., Thompson, L. G., & Mark, B. G. (2024). El Niño enhances snow-line rise and ice loss on the Quelccaya Ice Cap, Peru, The Cryosphere, 18(10), 4633–4644, [DOI: 10.5194/tc-18-4633-2024](https://doi.org/10.5194/tc-18-4633-2024)
 - Larocca, L. J., Lea, J. M., Erb, M. P., McKay, N. P., Phillips, M., Lamantia, K. A., & Kaufman, D. S. (2024). Arctic glacier snowline altitudes rise 150 m over the last 4 decades. The Cryosphere, 18(8), 3591-3611. [DOI: 10.5194/tc-18-3591-2024](https://doi.org/10.5194/tc-18-3591-2024)
 - Lamantia, K.A., Thompson, L., Davis, M., Mosley‐Thompson, E., & Stahl, H. (2023). Unique Collections of 14C‐Dated Vegetation Reveal Mid‐Holocene Fluctuations of the Quelccaya Ice Cap, Peru. Journal of Geophysical Research: Earth Surface, 128(11), e2023JF007297, [DOI: 10.1029/2023JF007297](https://doi.org/10.1029/2023JF007297)
